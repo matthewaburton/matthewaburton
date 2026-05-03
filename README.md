@@ -5,7 +5,7 @@ Python, TypeScript, C#, Java, Kotlin, Lua, and a whole lot more.
 
 ---
 
-## Projects
+## Notable Projects
 
 <table>
   <thead>
