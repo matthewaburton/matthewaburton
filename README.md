@@ -1,8 +1,7 @@
 # Matt Burton
 
-Software engineer. I build tools that I need and other stuff I find cool.
-
-Pennsylvania, US
+Software engineer. I build tools that I need and other stuff I find cool. Go,
+Python, TypeScript, C#, Java, Kotlin, Lua, and a whole lot more.
 
 ---
 
