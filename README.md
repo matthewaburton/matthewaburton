@@ -67,4 +67,9 @@ Pennsylvania, US
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#23](https://github.com/mab-go/nmea/pull/23) in [mab-go/nmea](https://github.com/mab-go/nmea)
+2. 💪 Opened PR [#23](https://github.com/mab-go/nmea/pull/23) in [mab-go/nmea](https://github.com/mab-go/nmea)
+3. ℹ️ Assigned PR [#23](https://github.com/mab-go/nmea/pull/23) in [mab-go/nmea](https://github.com/mab-go/nmea)
+4. ℹ️ Labeled issue [#22](https://github.com/mab-go/nmea/issues/22) in [mab-go/nmea](https://github.com/mab-go/nmea)
+5. ❗ Opened issue [#22](https://github.com/mab-go/nmea/issues/22) in [mab-go/nmea](https://github.com/mab-go/nmea)
 <!--END_SECTION:activity-->
