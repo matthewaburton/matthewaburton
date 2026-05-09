@@ -65,7 +65,7 @@ Python, TypeScript, C#, Java, Kotlin, Lua, and a whole lot more.
       </td>
       <td><a href="https://github.com/matthewaburton/agent-skills"><img src="https://img.shields.io/github/languages/top/matthewaburton/agent-skills?style=flat" alt="Language" /></a></td>
       <td>—</td>
-      <td><a href="https://github.com/matthewaburton/agent-skills/commits/main"><img src="https://img.shields.io/github/last-commit/matthewaburton/agent-skills?style=flat" alt="Last Commit" /></a></td>
+      <td><a href="https://github.com/matthewaburton/agent-skills/commits/main"><img src="https://img.shields.io/github/last-commit/matthewaburton/agent-skills?style=flat?cachebuster=5000" alt="Last Commit" /></a></td>
       <td><a href="https://github.com/matthewaburton/agent-skills/blob/main/LICENSE"><img src="https://img.shields.io/github/license/matthewaburton/agent-skills?style=flat" alt="License" /></a></td>
     </tr>
   </tbody>
