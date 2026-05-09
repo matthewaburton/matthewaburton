@@ -76,9 +76,9 @@ Python, TypeScript, C#, Java, Kotlin, Lua, and a whole lot more.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/matthewaburton/matthewaburton/pull/1) in [matthewaburton/matthewaburton](https://github.com/matthewaburton/matthewaburton)
-2. 💪 Opened PR [#1](https://github.com/matthewaburton/matthewaburton/pull/1) in [matthewaburton/matthewaburton](https://github.com/matthewaburton/matthewaburton)
-3. 🎉 Merged PR [#7](https://github.com/mab-go/.github/pull/7) in [mab-go/.github](https://github.com/mab-go/.github)
-4. 💪 Opened PR [#7](https://github.com/mab-go/.github/pull/7) in [mab-go/.github](https://github.com/mab-go/.github)
-5. ℹ️ Assigned PR [#7](https://github.com/mab-go/.github/pull/7) in [mab-go/.github](https://github.com/mab-go/.github)
+1. 🎉 Merged PR [#2](https://github.com/matthewaburton/matthewaburton/pull/2) in [matthewaburton/matthewaburton](https://github.com/matthewaburton/matthewaburton)
+2. 💪 Opened PR [#2](https://github.com/matthewaburton/matthewaburton/pull/2) in [matthewaburton/matthewaburton](https://github.com/matthewaburton/matthewaburton)
+3. 🎉 Merged PR [#1](https://github.com/matthewaburton/matthewaburton/pull/1) in [matthewaburton/matthewaburton](https://github.com/matthewaburton/matthewaburton)
+4. 💪 Opened PR [#1](https://github.com/matthewaburton/matthewaburton/pull/1) in [matthewaburton/matthewaburton](https://github.com/matthewaburton/matthewaburton)
+5. 🎉 Merged PR [#7](https://github.com/mab-go/.github/pull/7) in [mab-go/.github](https://github.com/mab-go/.github)
 <!--END_SECTION:activity-->
