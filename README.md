@@ -66,9 +66,9 @@ Python, TypeScript, C#, Java, Kotlin, Lua, and a whole lot more.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/mab-go/golem/pull/5) in [mab-go/golem](https://github.com/mab-go/golem)
-2. ℹ️ Assigned PR [#5](https://github.com/mab-go/golem/pull/5) in [mab-go/golem](https://github.com/mab-go/golem)
-3. 💪 Opened PR [#5](https://github.com/mab-go/golem/pull/5) in [mab-go/golem](https://github.com/mab-go/golem)
-4. 🎉 Merged PR [#4](https://github.com/mab-go/golem/pull/4) in [mab-go/golem](https://github.com/mab-go/golem)
-5. ℹ️ Assigned PR [#4](https://github.com/mab-go/golem/pull/4) in [mab-go/golem](https://github.com/mab-go/golem)
+1. 🎉 Merged PR [#6](https://github.com/mab-go/golem/pull/6) in [mab-go/golem](https://github.com/mab-go/golem)
+2. 💪 Opened PR [#6](https://github.com/mab-go/golem/pull/6) in [mab-go/golem](https://github.com/mab-go/golem)
+3. 🎉 Merged PR [#5](https://github.com/mab-go/golem/pull/5) in [mab-go/golem](https://github.com/mab-go/golem)
+4. ℹ️ Assigned PR [#5](https://github.com/mab-go/golem/pull/5) in [mab-go/golem](https://github.com/mab-go/golem)
+5. 💪 Opened PR [#5](https://github.com/mab-go/golem/pull/5) in [mab-go/golem](https://github.com/mab-go/golem)
 <!--END_SECTION:activity-->
