@@ -43,7 +43,7 @@ Python, TypeScript, C#, Java, Kotlin, Lua, and a whole lot more.
         <a href="https://github.com/mab-go/golem">mab-go/golem</a><br><br>
         <em>Autonomous AI agent (powered by Claude) that plays Minecraft as a genuine co-op survival partner</em>
       </td>
-      <td><a href="https://github.com/mab-go/golem"><img src="https://img.shields.io/github/languages/top/mab-go/golem?style=flat" alt="Language" /></a></td>
+      <td><a href="https://github.com/mab-go/golem"><img src="https://img.shields.io/github/languages/top/mab-go/golem?style=flat?cachebuster=5000" alt="Language" /></a></td>
       <td><a href="https://github.com/mab-go/golem/actions"><img src="https://img.shields.io/github/check-runs/mab-go/golem/main?style=flat&labelColor=555555&label=checks" alt="Build Status" /></a></td>
       <td><a href="https://github.com/mab-go/golem/commits/main"><img src="https://img.shields.io/github/last-commit/mab-go/golem?style=flat" alt="Last Commit" /></a></td>
       <td><a href="https://github.com/mab-go/golem/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mab-go/golem?style=flat" alt="License" /></a></td>
