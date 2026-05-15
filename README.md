@@ -40,6 +40,16 @@ Python, TypeScript, C#, Java, Kotlin, Lua, and a whole lot more.
     </tr>
     <tr>
       <td>
+        <a href="https://github.com/mab-go/trello-mcp">mab-go/trello-mcp</a><br><br>
+        <em>MCP server for Trello (a web-based, kanban-style list-making app from Atlassian)</em>
+      </td>
+      <td><a href="https://github.com/mab-go/trello-mcp"><img src="https://img.shields.io/github/languages/top/mab-go/trello-mcp?style=flat" alt="Language" /></a></td>
+      <td><a href="https://github.com/mab-go/trello-mcp/actions"><img src="https://img.shields.io/github/check-runs/mab-go/trello-mcp/main?style=flat&labelColor=555555&label=checks" alt="Build Status" /></a></td>
+      <td><a href="https://github.com/mab-go/trello-mcp/commits/main"><img src="https://img.shields.io/github/last-commit/mab-go/trello-mcp?style=flat" alt="Last Commit" /></a></td>
+      <td><a href="https://github.com/mab-go/trello-mcp/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mab-go/trello-mcp?style=flat" alt="License" /></a></td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://github.com/mab-go/golem">mab-go/golem</a><br><br>
         <em>Autonomous AI agent (powered by Claude) that plays Minecraft as a genuine co-op survival partner</em>
       </td>
