@@ -86,9 +86,9 @@ Python, TypeScript, C#, Java, Kotlin, Lua, and a whole lot more.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/mab-go/golem/pull/8) in [mab-go/golem](https://github.com/mab-go/golem)
-2. 💪 Opened PR [#8](https://github.com/mab-go/golem/pull/8) in [mab-go/golem](https://github.com/mab-go/golem)
-3. 🎉 Merged PR [#3](https://github.com/matthewaburton/matthewaburton/pull/3) in [matthewaburton/matthewaburton](https://github.com/matthewaburton/matthewaburton)
-4. 💪 Opened PR [#3](https://github.com/matthewaburton/matthewaburton/pull/3) in [matthewaburton/matthewaburton](https://github.com/matthewaburton/matthewaburton)
-5. 🎉 Merged PR [#7](https://github.com/mab-go/golem/pull/7) in [mab-go/golem](https://github.com/mab-go/golem)
+1. 🎉 Merged PR [#4](https://github.com/matthewaburton/matthewaburton/pull/4) in [matthewaburton/matthewaburton](https://github.com/matthewaburton/matthewaburton)
+2. 💪 Opened PR [#4](https://github.com/matthewaburton/matthewaburton/pull/4) in [matthewaburton/matthewaburton](https://github.com/matthewaburton/matthewaburton)
+3. 🎉 Merged PR [#9](https://github.com/mab-go/.github/pull/9) in [mab-go/.github](https://github.com/mab-go/.github)
+4. 💪 Opened PR [#9](https://github.com/mab-go/.github/pull/9) in [mab-go/.github](https://github.com/mab-go/.github)
+5. 🎉 Merged PR [#1](https://github.com/mab-go/trello-mcp/pull/1) in [mab-go/trello-mcp](https://github.com/mab-go/trello-mcp)
 <!--END_SECTION:activity-->
