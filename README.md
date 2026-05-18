@@ -86,9 +86,9 @@ Python, TypeScript, C#, Java, Kotlin, Lua, and a whole lot more.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38](https://github.com/mab-go/xmind-mcp/pull/38) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
-2. 💪 Opened PR [#7](https://github.com/mab-go/sheets-mcp/pull/7) in [mab-go/sheets-mcp](https://github.com/mab-go/sheets-mcp)
-3. 💪 Opened PR [#4](https://github.com/mab-go/trello-mcp/pull/4) in [mab-go/trello-mcp](https://github.com/mab-go/trello-mcp)
-4. 💪 Opened PR [#10](https://github.com/mab-go/golem/pull/10) in [mab-go/golem](https://github.com/mab-go/golem)
-5. 🗣 Commented on [#3](https://github.com/mab-go/trello-mcp/issues/3#issuecomment-4464928825) in [mab-go/trello-mcp](https://github.com/mab-go/trello-mcp)
+1. 🎉 Merged PR [#10](https://github.com/mab-go/golem/pull/10) in [mab-go/golem](https://github.com/mab-go/golem)
+2. 🎉 Merged PR [#4](https://github.com/mab-go/trello-mcp/pull/4) in [mab-go/trello-mcp](https://github.com/mab-go/trello-mcp)
+3. 🎉 Merged PR [#7](https://github.com/mab-go/sheets-mcp/pull/7) in [mab-go/sheets-mcp](https://github.com/mab-go/sheets-mcp)
+4. 🎉 Merged PR [#38](https://github.com/mab-go/xmind-mcp/pull/38) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
+5. 💪 Opened PR [#38](https://github.com/mab-go/xmind-mcp/pull/38) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
 <!--END_SECTION:activity-->
