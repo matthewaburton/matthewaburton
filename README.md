@@ -86,9 +86,9 @@ Python, TypeScript, C#, Java, Kotlin, Lua, and a whole lot more.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/mab-go/nmea/pull/24#issuecomment-4503746421) in [mab-go/nmea](https://github.com/mab-go/nmea)
-2. 🎉 Merged PR [#10](https://github.com/mab-go/golem/pull/10) in [mab-go/golem](https://github.com/mab-go/golem)
-3. 🎉 Merged PR [#4](https://github.com/mab-go/trello-mcp/pull/4) in [mab-go/trello-mcp](https://github.com/mab-go/trello-mcp)
-4. 🎉 Merged PR [#7](https://github.com/mab-go/sheets-mcp/pull/7) in [mab-go/sheets-mcp](https://github.com/mab-go/sheets-mcp)
-5. 🎉 Merged PR [#38](https://github.com/mab-go/xmind-mcp/pull/38) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
+1. 🎉 Merged PR [#7](https://github.com/mab-go/trello-mcp/pull/7) in [mab-go/trello-mcp](https://github.com/mab-go/trello-mcp)
+2. 💪 Opened PR [#7](https://github.com/mab-go/trello-mcp/pull/7) in [mab-go/trello-mcp](https://github.com/mab-go/trello-mcp)
+3. 🎉 Merged PR [#6](https://github.com/mab-go/trello-mcp/pull/6) in [mab-go/trello-mcp](https://github.com/mab-go/trello-mcp)
+4. 💪 Opened PR [#6](https://github.com/mab-go/trello-mcp/pull/6) in [mab-go/trello-mcp](https://github.com/mab-go/trello-mcp)
+5. 🎉 Merged PR [#5](https://github.com/mab-go/trello-mcp/pull/5) in [mab-go/trello-mcp](https://github.com/mab-go/trello-mcp)
 <!--END_SECTION:activity-->
