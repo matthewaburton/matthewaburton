@@ -86,9 +86,9 @@ Python, TypeScript, C#, Java, Kotlin, Lua, and a whole lot more.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/mab-go/xmind-mcp/pull/55) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
-2. 🔒 Closed issue [#46](https://github.com/mab-go/xmind-mcp/issues/46) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
-3. ℹ️ Assigned PR [#55](https://github.com/mab-go/xmind-mcp/pull/55) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
-4. 💪 Opened PR [#55](https://github.com/mab-go/xmind-mcp/pull/55) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
-5. 🎉 Merged PR [#54](https://github.com/mab-go/xmind-mcp/pull/54) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
+1. 🎉 Merged PR [#61](https://github.com/mab-go/xmind-mcp/pull/61) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
+2. 🔒 Closed issue [#43](https://github.com/mab-go/xmind-mcp/issues/43) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
+3. 💪 Opened PR [#61](https://github.com/mab-go/xmind-mcp/pull/61) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
+4. 🔒 Closed issue [#27](https://github.com/mab-go/xmind-mcp/issues/27) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
+5. 🎉 Merged PR [#60](https://github.com/mab-go/xmind-mcp/pull/60) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
 <!--END_SECTION:activity-->
