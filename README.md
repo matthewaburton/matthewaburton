@@ -86,9 +86,9 @@ Python, TypeScript, C#, Java, Kotlin, Lua, and a whole lot more.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#65](https://github.com/mab-go/xmind-mcp/pull/65) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
-2. 💪 Opened PR [#65](https://github.com/mab-go/xmind-mcp/pull/65) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
-3. 🗣 Commented on [#33](https://github.com/mab-go/xmind-mcp/issues/33#issuecomment-4664893210) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
-4. 🔒 Closed issue [#33](https://github.com/mab-go/xmind-mcp/issues/33) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
-5. 🗣 Commented on [#64](https://github.com/mab-go/xmind-mcp/pull/64#issuecomment-4664743908) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
+1. 🎉 Merged PR [#4](https://github.com/mab-go/logging/pull/4) in [mab-go/logging](https://github.com/mab-go/logging)
+2. ℹ️ Assigned PR [#4](https://github.com/mab-go/logging/pull/4) in [mab-go/logging](https://github.com/mab-go/logging)
+3. 💪 Opened PR [#4](https://github.com/mab-go/logging/pull/4) in [mab-go/logging](https://github.com/mab-go/logging)
+4. 🎉 Merged PR [#3](https://github.com/mab-go/logging/pull/3) in [mab-go/logging](https://github.com/mab-go/logging)
+5. ℹ️ Assigned PR [#3](https://github.com/mab-go/logging/pull/3) in [mab-go/logging](https://github.com/mab-go/logging)
 <!--END_SECTION:activity-->
