@@ -1,7 +1,7 @@
 # Matt Burton
 
-Software engineer. I build tools that I need and other stuff I find cool. Go,
-Python, TypeScript, C#, Java, Kotlin, Lua, and a whole lot more.
+Engineering leader who still writes the hard parts. These are tools I've built for myself and for
+AI agents, mostly in Go and Python; I also work in TypeScript, Java/Kotlin, and C#.
 
 ---
 
@@ -40,6 +40,16 @@ Python, TypeScript, C#, Java, Kotlin, Lua, and a whole lot more.
     </tr>
     <tr>
       <td>
+        <a href="https://github.com/matthewaburton/predictioneers-game-skill">matthewaburton/predictioneers-game-skill</a><br><br>
+        <em>Agent skill and Python engine that forecasts multi-actor negotiations with Bueno de Mesquita's expected-utility model</em>
+      </td>
+      <td><a href="https://github.com/matthewaburton/predictioneers-game-skill"><img src="https://img.shields.io/github/languages/top/matthewaburton/predictioneers-game-skill?style=flat" alt="Language" /></a></td>
+      <td>—</td>
+      <td><a href="https://github.com/matthewaburton/predictioneers-game-skill/commits/main"><img src="https://img.shields.io/github/last-commit/matthewaburton/predictioneers-game-skill?style=flat" alt="Last Commit" /></a></td>
+      <td><a href="https://github.com/matthewaburton/predictioneers-game-skill/blob/main/LICENSE"><img src="https://img.shields.io/github/license/matthewaburton/predictioneers-game-skill?style=flat" alt="License" /></a></td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://github.com/mab-go/trello-mcp">mab-go/trello-mcp</a><br><br>
         <em>MCP server for Trello (a web-based, kanban-style list-making app from Atlassian)</em>
       </td>
@@ -50,13 +60,23 @@ Python, TypeScript, C#, Java, Kotlin, Lua, and a whole lot more.
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/mab-go/golem">mab-go/golem</a><br><br>
-        <em>Autonomous AI agent (powered by Claude) that plays Minecraft as a genuine co-op survival partner</em>
+        <a href="https://github.com/mab-go/logging">mab-go/logging</a><br><br>
+        <em>Structured logging on Go's <code>log/slog</code>, with typed events as stable, filterable record identifiers; zero dependencies</em>
       </td>
-      <td><a href="https://github.com/mab-go/golem"><img src="https://img.shields.io/github/languages/top/mab-go/golem?style=flat?cachebuster=5000" alt="Language" /></a></td>
-      <td><a href="https://github.com/mab-go/golem/actions"><img src="https://img.shields.io/github/check-runs/mab-go/golem/main?style=flat&labelColor=555555&label=checks" alt="Build Status" /></a></td>
-      <td><a href="https://github.com/mab-go/golem/commits/main"><img src="https://img.shields.io/github/last-commit/mab-go/golem?style=flat" alt="Last Commit" /></a></td>
-      <td><a href="https://github.com/mab-go/golem/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mab-go/golem?style=flat" alt="License" /></a></td>
+      <td><a href="https://github.com/mab-go/logging"><img src="https://img.shields.io/github/languages/top/mab-go/logging?style=flat" alt="Language" /></a></td>
+      <td><a href="https://github.com/mab-go/logging/actions"><img src="https://img.shields.io/github/check-runs/mab-go/logging/main?style=flat&labelColor=555555&label=checks" alt="Build Status" /></a></td>
+      <td><a href="https://github.com/mab-go/logging/commits/main"><img src="https://img.shields.io/github/last-commit/mab-go/logging?style=flat" alt="Last Commit" /></a></td>
+      <td><a href="https://github.com/mab-go/logging/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mab-go/logging?style=flat" alt="License" /></a></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/matthewaburton/agent-skills">matthewaburton/agent-skills</a><br><br>
+        <em>Reusable agent skills (planning, plan review, change verification, commit messages), shared across the MCP servers</em>
+      </td>
+      <td><a href="https://github.com/matthewaburton/agent-skills"><img src="https://img.shields.io/github/languages/top/matthewaburton/agent-skills?style=flat" alt="Language" /></a></td>
+      <td>—</td>
+      <td><a href="https://github.com/matthewaburton/agent-skills/commits/main"><img src="https://img.shields.io/github/last-commit/matthewaburton/agent-skills?style=flat" alt="Last Commit" /></a></td>
+      <td><a href="https://github.com/matthewaburton/agent-skills/blob/main/LICENSE"><img src="https://img.shields.io/github/license/matthewaburton/agent-skills?style=flat" alt="License" /></a></td>
     </tr>
     <tr>
       <td>
@@ -68,18 +88,11 @@ Python, TypeScript, C#, Java, Kotlin, Lua, and a whole lot more.
       <td><a href="https://github.com/mab-go/nmea/commits/main"><img src="https://img.shields.io/github/last-commit/mab-go/nmea?style=flat" alt="Last Commit" /></a></td>
       <td><a href="https://github.com/mab-go/nmea/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mab-go/nmea?style=flat" alt="License" /></a></td>
     </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/matthewaburton/agent-skills">matthewaburton/agent-skills</a><br><br>
-        <em>Skills for AI agents (Claude, Cursor, Codex, etc.)</em>
-      </td>
-      <td><a href="https://github.com/matthewaburton/agent-skills"><img src="https://img.shields.io/github/languages/top/matthewaburton/agent-skills?style=flat" alt="Language" /></a></td>
-      <td>—</td>
-      <td><a href="https://github.com/matthewaburton/agent-skills/commits/main"><img src="https://img.shields.io/github/last-commit/matthewaburton/agent-skills?style=flat?cachebuster=5000" alt="Last Commit" /></a></td>
-      <td><a href="https://github.com/matthewaburton/agent-skills/blob/main/LICENSE"><img src="https://img.shields.io/github/license/matthewaburton/agent-skills?style=flat" alt="License" /></a></td>
-    </tr>
   </tbody>
 </table>
+
+**For fun:** [mab-go/golem](https://github.com/mab-go/golem), an autonomous Claude-powered agent that
+plays Minecraft as a co-op survival partner.
 
 ---
 
