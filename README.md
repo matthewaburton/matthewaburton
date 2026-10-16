@@ -99,9 +99,9 @@ plays Minecraft as a co-op survival partner.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/matthewaburton/agent-skills/pull/1) in [matthewaburton/agent-skills](https://github.com/matthewaburton/agent-skills)
-2. 💪 Opened PR [#1](https://github.com/matthewaburton/agent-skills/pull/1) in [matthewaburton/agent-skills](https://github.com/matthewaburton/agent-skills)
-3. 🎉 Merged PR [#6](https://github.com/matthewaburton/matthewaburton/pull/6) in [matthewaburton/matthewaburton](https://github.com/matthewaburton/matthewaburton)
-4. 💪 Opened PR [#6](https://github.com/matthewaburton/matthewaburton/pull/6) in [matthewaburton/matthewaburton](https://github.com/matthewaburton/matthewaburton)
-5. 🎉 Merged PR [#5](https://github.com/matthewaburton/matthewaburton/pull/5) in [matthewaburton/matthewaburton](https://github.com/matthewaburton/matthewaburton)
+1. 🎉 Merged PR [#66](https://github.com/mab-go/xmind-mcp/pull/66) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
+2. 💪 Opened PR [#68](https://github.com/mab-go/xmind-mcp/pull/68) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
+3. 💪 Opened PR [#67](https://github.com/mab-go/xmind-mcp/pull/67) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
+4. 💪 Opened PR [#66](https://github.com/mab-go/xmind-mcp/pull/66) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
+5. 🎉 Merged PR [#1](https://github.com/matthewaburton/agent-skills/pull/1) in [matthewaburton/agent-skills](https://github.com/matthewaburton/agent-skills)
 <!--END_SECTION:activity-->
