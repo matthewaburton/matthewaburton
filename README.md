@@ -99,9 +99,9 @@ plays Minecraft as a co-op survival partner.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#48](https://github.com/mab-go/xmind-mcp/issues/48) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
-2. 🎉 Merged PR [#84](https://github.com/mab-go/xmind-mcp/pull/84) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
-3. 💪 Opened PR [#84](https://github.com/mab-go/xmind-mcp/pull/84) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
-4. 🎉 Merged PR [#83](https://github.com/mab-go/xmind-mcp/pull/83) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
-5. 🔒 Closed issue [#45](https://github.com/mab-go/xmind-mcp/issues/45) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
+1. 🎉 Merged PR [#84](https://github.com/mab-go/xmind-mcp/pull/84) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
+2. 💪 Opened PR [#84](https://github.com/mab-go/xmind-mcp/pull/84) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
+3. 🎉 Merged PR [#83](https://github.com/mab-go/xmind-mcp/pull/83) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
+4. 💪 Opened PR [#83](https://github.com/mab-go/xmind-mcp/pull/83) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
+5. 🎉 Merged PR [#82](https://github.com/mab-go/xmind-mcp/pull/82) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
 <!--END_SECTION:activity-->
