@@ -99,9 +99,9 @@ plays Minecraft as a co-op survival partner.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#48](https://github.com/mab-go/xmind-mcp/issues/48) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
-2. 🎉 Merged PR [#84](https://github.com/mab-go/xmind-mcp/pull/84) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
-3. 💪 Opened PR [#84](https://github.com/mab-go/xmind-mcp/pull/84) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
+1. ❗ Opened issue [#16227](https://github.com/EclipseFdn/open-vsx.org/issues/16227) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+2. ℹ️ Labeled issue [#16227](https://github.com/EclipseFdn/open-vsx.org/issues/16227) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+3. ℹ️ Labeled issue [#16227](https://github.com/EclipseFdn/open-vsx.org/issues/16227) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
 4. 🎉 Merged PR [#83](https://github.com/mab-go/xmind-mcp/pull/83) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
 5. 🔒 Closed issue [#45](https://github.com/mab-go/xmind-mcp/issues/45) in [mab-go/xmind-mcp](https://github.com/mab-go/xmind-mcp)
 <!--END_SECTION:activity-->
